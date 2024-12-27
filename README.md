@@ -34,7 +34,7 @@ Simply double-click on the index.html file to view the app in your browser!
 ## 🌟 Screenshots
 Here’s a preview of what the app looks like:
 
-![Weather App Screenshot]()  <!-- Replace with your actual screenshot -->
+![Weather App Screenshot](https://github.com/Amansingh0807/WeatherApp/blob/main/Screenshot%202024-12-27%20153728.png)  <!-- Replace with your actual screenshot -->
 
 ## 💡 How It Works
 - The app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api) using your city name or your browser's geolocation.
